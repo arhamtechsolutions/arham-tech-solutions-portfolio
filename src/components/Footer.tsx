@@ -19,10 +19,10 @@ export const Footer: React.FC<FooterProps> = ({ onNavClick }) => {
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-3/4 h-[1px] bg-gradient-to-r from-transparent via-[#00E5FF]/50 to-transparent" />
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-12">
-        
+
         {/* Top Footer Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-12 pb-16 border-b border-white/5">
-          
+
           {/* Brand Column (5 cols) */}
           <div className="lg:col-span-5 flex flex-col items-start">
             <div className="flex items-center gap-3 mb-4">
@@ -81,7 +81,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavClick }) => {
                 <FacebookIcon className="w-4 h-4" />
               </a>
               <a
-                href="https://github.com/arhamtech"
+                href="https://github.com/arhamtechsolutions"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-xl bg-[#141822] hover:bg-white hover:text-black border border-white/10 hover:border-white flex items-center justify-center text-[#A1A1AA] transition-all shadow-md"
@@ -150,7 +150,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavClick }) => {
               </div>
               <div>
                 <span className="block font-mono text-white text-[11px]">Availability</span>
-                <span className="text-emerald-400 font-mono">Open for Q1 2026</span>
+                <span className="text-emerald-400 font-mono">Available Now</span>
               </div>
             </div>
           </div>
