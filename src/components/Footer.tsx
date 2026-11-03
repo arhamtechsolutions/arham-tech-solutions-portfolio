@@ -143,6 +143,12 @@ export const Footer: React.FC<FooterProps> = ({ onNavClick }) => {
                 </a>
               </div>
               <div>
+                <span className="block font-mono text-white text-[11px]">WhatsApp</span>
+                <a href="https://wa.me/601111375876" target="_blank" rel="noopener noreferrer" className="hover:text-emerald-400 transition-colors">
+                  +60 111-137-5876
+                </a>
+              </div>
+              <div>
                 <span className="block font-mono text-white text-[11px]">Instagram</span>
                 <a href="https://instagram.com/arhamtech.dev" target="_blank" rel="noopener noreferrer" className="hover:text-[#FF1738] transition-colors">
                   @arhamtech.dev

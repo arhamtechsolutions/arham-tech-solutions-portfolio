@@ -126,7 +126,7 @@ export const Contact: React.FC = () => {
 
                 {/* WhatsApp Direct Chat */}
                 <a
-                  href="https://wa.me/+601111375876?text=Hello%20Arham%20Tech%20Solutions!%20I%20would%20like%20to%20discuss%20a%20new%20project."
+                  href="https://wa.me/601111375876?text=Hello%20Arham%20Tech%20Solutions!%20I%20would%20like%20to%20discuss%20a%20new%20project."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-start gap-4 p-4 rounded-2xl bg-[#141822] hover:bg-[#1f2433] border border-white/5 hover:border-emerald-500/40 transition-all group"

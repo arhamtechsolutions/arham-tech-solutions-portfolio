@@ -94,7 +94,7 @@
     - Integrated interactive feedback modal that stores and displays verified feedback via local storage.
 11. **Conversion-Driven Contact Section (`Contact.tsx`)**
     - Validated inquiry form with Project Type pills, Budget Range selectors, and message input.
-    - Direct WhatsApp quick chat (`+92 300 0000000`), Email (`arhamtech052@gmail.com`), and Instagram (`@arhamtech.dev`).
+    - Direct WhatsApp quick chat (`+60 111-137-5876`), Email (`arhamtech052@gmail.com`), and Instagram (`@arhamtech.dev`).
     - Celebratory confetti explosion on inquiry dispatch.
 12. **Agency Footer (`Footer.tsx`)**
     - Brand identity, tagline, quick links, capabilities index, social media icons, and animated back-to-top button.
@@ -242,7 +242,7 @@ To attach a custom domain (e.g., `https://arhamtech.dev`):
 - **Website**: [arhamtechsolutions.github.io/arham-tech-solutions-portfolio](https://arhamtechsolutions.github.io/arham-tech-solutions-portfolio/)
 - **Instagram**: [@arhamtech.dev](https://instagram.com/arhamtech.dev)
 - **Official Email**: [arhamtech052@gmail.com](mailto:arhamtech052@gmail.com)
-- **WhatsApp**: [+92 300 0000000](https://wa.me/923000000000)
+- **WhatsApp**: [+60 111-137-5876](https://wa.me/601111375876)
 
 <div align="center">
   <sub>© 2026 ARHAM TECH SOLUTIONS. All rights reserved.</sub><br />

@@ -8,7 +8,7 @@
     <a href="https://arhamtechsolutions.github.io/arham-tech-solutions-portfolio/"><img src="https://img.shields.io/badge/Official_Website-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Official Website" /></a>
     <a href="https://instagram.com/arhamtech.dev"><img src="https://img.shields.io/badge/Instagram-@arhamtech.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="mailto:arhamtech052@gmail.com"><img src="https://img.shields.io/badge/Email_Us-arhamtech052@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://wa.me/923000000000"><img src="https://img.shields.io/badge/WhatsApp-Quick_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+    <a href="https://wa.me/601111375876"><img src="https://img.shields.io/badge/WhatsApp-Quick_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   </p>
 
 </div>
@@ -181,7 +181,7 @@ We are actively available for new client collaborations, bespoke software contra
 - 🌐 **Portfolio Website:** [arhamtechsolutions.github.io/arham-tech-solutions-portfolio](https://arhamtechsolutions.github.io/arham-tech-solutions-portfolio/)
 - 📸 **Instagram:** [@arhamtech.dev](https://instagram.com/arhamtech.dev)
 - ✉️ **Email:** [arhamtech052@gmail.com](mailto:arhamtech052@gmail.com)
-- 💬 **WhatsApp Quick Chat:** [+92 300 0000000](https://wa.me/923000000000)
+- 💬 **WhatsApp Quick Chat:** [+60 111-137-5876](https://wa.me/601111375876)
 - 📍 **Headquarters & Delivery:** Global Remote & Tech Hub
 
 ---
