@@ -37,3 +37,4 @@ if (Test-Path $profileDir) {
 Write-Host "`n==========================================================" -ForegroundColor Cyan
 Write-Host "  SUCCESS! Both repositories are synchronized with GitHub. " -ForegroundColor Green
 Write-Host "==========================================================" -ForegroundColor Cyan
+

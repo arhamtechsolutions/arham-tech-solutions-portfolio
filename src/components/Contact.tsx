@@ -88,7 +88,7 @@ export const Contact: React.FC = () => {
       <div className="absolute bottom-0 right-0 w-[500px] h-[500px] bg-[#FF1738]/10 rounded-full blur-[180px] pointer-events-none" />
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-12">
-        
+
         {/* Section Header */}
         <div className="flex flex-col items-start mb-16">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#141822] border border-[#00E5FF]/30 mb-4">
@@ -111,10 +111,10 @@ export const Contact: React.FC = () => {
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
-          
+
           {/* Left Column: Direct Agency Channels & Socials */}
           <div className="lg:col-span-5 flex flex-col gap-6">
-            
+
             {/* Quick Contact Info Cards */}
             <div className="rounded-3xl glass-panel bg-[#0E1117] border border-white/10 p-8 shadow-xl">
               <h3 className="text-xl font-display font-bold text-white mb-6 flex items-center gap-2">
@@ -123,10 +123,10 @@ export const Contact: React.FC = () => {
               </h3>
 
               <div className="space-y-6">
-                
+
                 {/* WhatsApp Direct Chat */}
                 <a
-                  href="https://wa.me/923000000000?text=Hello%20Arham%20Tech%20Solutions!%20I%20would%20like%20to%20discuss%20a%20new%20project."
+                  href="https://wa.me/+601111375876?text=Hello%20Arham%20Tech%20Solutions!%20I%20would%20like%20to%20discuss%20a%20new%20project."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-start gap-4 p-4 rounded-2xl bg-[#141822] hover:bg-[#1f2433] border border-white/5 hover:border-emerald-500/40 transition-all group"
@@ -139,7 +139,7 @@ export const Contact: React.FC = () => {
                       WhatsApp Quick Chat
                     </span>
                     <span className="text-sm font-bold text-white group-hover:text-emerald-400 transition-colors">
-                      +92 300 0000000
+                      +60 111-137-5876
                     </span>
                     <p className="text-[11px] text-[#A1A1AA] mt-0.5">Average reply in &lt; 15 minutes</p>
                   </div>
@@ -218,7 +218,7 @@ export const Contact: React.FC = () => {
           {/* Right Column: Interactive Project Inquiry Form */}
           <div className="lg:col-span-7">
             <div className="rounded-3xl glass-panel bg-[#0E1117] border border-white/10 p-8 sm:p-10 shadow-2xl relative overflow-hidden">
-              
+
               <AnimatePresence mode="wait">
                 {isSubmitted ? (
                   <motion.div
@@ -258,7 +258,7 @@ export const Contact: React.FC = () => {
                   </motion.div>
                 ) : (
                   <form onSubmit={handleSubmit} className="space-y-6">
-                    
+
                     {errorMessage && (
                       <div className="p-3.5 rounded-xl bg-red-500/10 border border-red-500/30 text-xs text-red-400 font-mono">
                         {errorMessage}
@@ -307,11 +307,10 @@ export const Contact: React.FC = () => {
                             type="button"
                             key={type}
                             onClick={() => setFormData({ ...formData, projectType: type })}
-                            className={`px-3.5 py-2 rounded-xl text-xs font-mono transition-all ${
-                              formData.projectType === type
-                                ? 'bg-[#00E5FF] text-black font-bold shadow-[0_0_15px_rgba(0,229,255,0.4)]'
-                                : 'bg-[#141822] text-[#A1A1AA] hover:text-white border border-white/5'
-                            }`}
+                            className={`px-3.5 py-2 rounded-xl text-xs font-mono transition-all ${formData.projectType === type
+                              ? 'bg-[#00E5FF] text-black font-bold shadow-[0_0_15px_rgba(0,229,255,0.4)]'
+                              : 'bg-[#141822] text-[#A1A1AA] hover:text-white border border-white/5'
+                              }`}
                           >
                             {type}
                           </button>
@@ -330,11 +329,10 @@ export const Contact: React.FC = () => {
                             type="button"
                             key={range}
                             onClick={() => setFormData({ ...formData, budgetRange: range })}
-                            className={`py-2 px-3 rounded-xl text-xs font-mono text-center transition-all ${
-                              formData.budgetRange === range
-                                ? 'bg-[#FF1738] text-white font-bold shadow-[0_0_15px_rgba(255,23,56,0.5)]'
-                                : 'bg-[#141822] text-[#A1A1AA] hover:text-white border border-white/5'
-                            }`}
+                            className={`py-2 px-3 rounded-xl text-xs font-mono text-center transition-all ${formData.budgetRange === range
+                              ? 'bg-[#FF1738] text-white font-bold shadow-[0_0_15px_rgba(255,23,56,0.5)]'
+                              : 'bg-[#141822] text-[#A1A1AA] hover:text-white border border-white/5'
+                              }`}
                           >
                             {range}
                           </button>

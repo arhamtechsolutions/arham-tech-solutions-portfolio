@@ -11,7 +11,7 @@ export const projectsData: Project[] = [
     solution: 'Engineered a custom BLoC architecture with isolates for data processing, fine-tuned SQLite caching for zero-latency offline performance, and integrated Flutter platform channels.',
     technologies: ['Flutter', 'Dart', 'REST APIs', 'Firebase', 'SQLite'],
     image: 'https://images.unsplash.com/photo-1510519138161-58474ebf8804?auto=format&fit=crop&w=1200&q=80',
-    liveUrl: 'https://github.com/arhamtech',
+    liveUrl: 'https://github.com/arhamtechsolutions',
     metrics: [
       { label: 'Frame Rate', value: '120 FPS' },
       { label: 'App Startup Time', value: '< 1.2s' },
@@ -29,7 +29,7 @@ export const projectsData: Project[] = [
     solution: 'Designed an optimized MySQL relational schema with composite indexes, queued heavy PDF generation with background workers, and implemented a sleek responsive Tailwind dashboard.',
     technologies: ['Laravel', 'PHP', 'MySQL', 'REST APIs', 'Bootstrap'],
     image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1200&q=80',
-    liveUrl: 'https://github.com/arhamtech',
+    liveUrl: 'https://github.com/arhamtechsolutions',
     metrics: [
       { label: 'Query Speed', value: '< 45ms' },
       { label: 'Automation Gain', value: '85%' },
@@ -47,7 +47,7 @@ export const projectsData: Project[] = [
     solution: 'Architected a lightweight frontend with modern CSS3/HTML5 and JavaScript, lazy-loaded visual assets via edge CDN, and implemented a streamlined 2-step checkout funnel.',
     technologies: ['Core PHP', 'JavaScript', 'HTML5', 'CSS3', 'MySQL'],
     image: 'https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1200&q=80',
-    liveUrl: 'https://github.com/arhamtech',
+    liveUrl: 'https://github.com/arhamtechsolutions',
     metrics: [
       { label: 'Conversion Lift', value: '+34%' },
       { label: 'Page Speed', value: '0.8s' },
@@ -83,7 +83,7 @@ export const projectsData: Project[] = [
     solution: 'Built a lightweight custom PHP/Laravel engine paired with semantic HTML5, localized MySQL routing, and automated sitemap generation.',
     technologies: ['Laravel', 'PHP', 'HTML5', 'CSS3', 'Git'],
     image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80',
-    liveUrl: 'https://github.com/arhamtech',
+    liveUrl: 'https://github.com/arhamtechsolutions',
     metrics: [
       { label: 'Lighthouse Score', value: '100/100' },
       { label: 'SEO Rank', value: 'Top 3' },
@@ -101,7 +101,7 @@ export const projectsData: Project[] = [
     solution: 'Built Flutter mobile interfaces with strict permission handling, integrated REST endpoints with token authentication, and optimized background appointment notifications.',
     technologies: ['Flutter', 'Dart', 'REST APIs', 'MySQL'],
     image: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80',
-    liveUrl: 'https://github.com/arhamtech',
+    liveUrl: 'https://github.com/arhamtechsolutions',
     metrics: [
       { label: 'Video Latency', value: '< 150ms' },
       { label: 'Patient Retention', value: '91%' },
